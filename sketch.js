@@ -21,9 +21,9 @@ function setup(){
     bin.addImage(binImg);
     bin.scale = 0.45;
 
-    binPart1 = new Dustbin(902,505,1,120);
-    binPart2 = new Dustbin(962,565,130,10);
-    binPart3 = new Dustbin(1024,505,10,120);
+    binPart1 = new Dustbin(910,505,1,120);
+    binPart2 = new Dustbin(962,565,110,10);
+    binPart3 = new Dustbin(1015,505,10,120);
 }
 
 function draw(){
